@@ -6,8 +6,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | [Your Full Name] |
-| **Roll Number** | [Your Roll Number] |
+| **Student Name** | TEJAS KUMAR |
+| **Roll Number** | 24BAS10025 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Linux Kernel |
 | **License** | GPL v2 |
